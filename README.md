@@ -11,4 +11,9 @@ Whatsminer, Innosilicon, Avalon.
 All vnish firmware has been tested for a long time before being uploaded for download and compared to the stock BITMAIN firmware, has a huge functionality that allows you to quickly and efficiently manage your ASICs and allows you to increase the profitability of equipment up to 50%
 
 
-
+#firmware
+#vnish
+#antminer
+#S9
+#S17
+#T17
