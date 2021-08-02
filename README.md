@@ -17,3 +17,5 @@ All vnish firmware has been tested for a long time before being uploaded for dow
 #S9
 #S17
 #T17
+#asic
+#bitcoin
