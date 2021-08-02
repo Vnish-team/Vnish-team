@@ -1,6 +1,6 @@
-### Hi there 👋
+ 👋
 
-PROFESSIONAL FIRMWARE FOR ASIC MINERS
+### PROFESSIONAL FIRMWARE FOR ASIC MINERS
 
 More than 3 years Vnish team develops the professional firmware for Antminer models. Now we have firmware for Antminer S17e T17e S17+ T17+ S17 S17pro T17 S9 S9i S9j T9+ L3+ L3++
 
