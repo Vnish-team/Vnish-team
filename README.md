@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Vnish-team/Vnish-team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PROFESSIONAL FIRMWARE FOR ASIC MINERS
 
-Here are some ideas to get you started:
+More than 3 years Vnish team develops the professional firmware for Antminer models. Now we have firmware for Antminer S17e T17e S17+ T17+ S17 S17pro T17 S9 S9i S9j T9+ L3+ L3++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the process of developing firmware for Antminer S19 T19 S9k S9se and also for 
+
+Whatsminer, Innosilicon, Avalon.
+
+All vnish firmware has been tested for a long time before being uploaded for download and compared to the stock BITMAIN firmware, has a huge functionality that allows you to quickly and efficiently manage your ASICs and allows you to increase the profitability of equipment up to 50%
+
+More detail information on the all advantages of the firmware can be found in the FEATURES menu
+
