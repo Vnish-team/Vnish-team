@@ -14,8 +14,10 @@ All vnish firmware has been tested for a long time before being uploaded for dow
 #firmware
 #vnish
 #antminer
+#l3
 #S9
 #S17
 #T17
 #asic
 #bitcoin
+#litecoin
